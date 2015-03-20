@@ -1,0 +1,1194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: dot15926\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Relationships"
+msgstr "Отношения"
+
+msgid "Searching for diff..."
+msgstr "Поиск изменений..."
+
+msgid "Save &as..."
+msgstr "Сохранить как..."
+
+msgid "&Redo"
+msgstr "Повторить"
+
+msgid "dot15926 community at LiveJournal"
+msgstr "Сообщество dot15926 в LJ"
+
+msgid "Cu&t"
+msgstr "Вырезать"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Yes to all"
+msgstr "Да для всех"
+
+msgid "Save filtered diff"
+msgstr "Сохранить отфильтрованные изменения"
+
+msgid "&View"
+msgstr "Вид"
+
+msgid "Create instance"
+msgstr "Создать экземпляр"
+
+msgid "&Edit"
+msgstr "Правка"
+
+msgid "URI (or will be generated automatically):"
+msgstr "URI (или будет сгенерирован автоматически):"
+
+msgid "found "
+msgstr "найдено"
+
+msgid "Search in names"
+msgstr "Поиск в именах"
+
+msgid "Add SPAR&QL endpoint"
+msgstr "Добавить точку доступа SPARQL:"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Probable a wrong entity type or class for a role, expected %s\n"
+msgstr "Возможно неверный тип или класс объекта в этой роли, ожидается %s\n"
+
+msgid "Annotations"
+msgstr "Аннотации"
+
+msgid "View patterns"
+msgstr "Просмотреть структуры"
+
+msgid "with local copy of Part 4"
+msgstr "с локальной копией части 4"
+
+msgid "Label:"
+msgstr "Метка:"
+
+msgid "{1}% {0}"
+msgstr "{1}% {0}"
+
+msgid "Save a&ll"
+msgstr "Сохранить всё"
+
+msgid "Loading relationshps from {0}..."
+msgstr "Загрузка отношений из {0}..."
+
+msgid "Choose endpoint..."
+msgstr "Выбрать точку доступа..."
+
+msgid "Pro&ject panel"
+msgstr "Панель проекта"
+
+msgid "Diff to %s"
+msgstr "Изменения к %s"
+
+msgid "&Properties panel"
+msgstr "Панель свойств"
+
+msgid "Connection log:"
+msgstr "Журнал соединения:"
+
+msgid "&Copy"
+msgstr "Копировать"
+
+msgid "&New..."
+msgstr "Новый..."
+
+msgid "Reason"
+msgstr "Основание"
+
+msgid "Select all"
+msgstr "Выбрать все"
+
+msgid "Open project..."
+msgstr "Открыть проект..."
+
+msgid "Documentation not found"
+msgstr "Документация не найдена"
+
+msgid "Notification"
+msgstr "Уведомление"
+
+msgid "&Reimport..."
+msgstr "Реимпортировать..."
+
+msgid "Run selected tests"
+msgstr "Выполнить выбранные тесты"
+
+msgid "Click to close"
+msgstr "Нажмите, чтобы закрыть"
+
+msgid "<Inherit from project...>"
+msgstr "<Наследовать из проекта...>"
+
+msgid "Part 4 file..."
+msgstr "Файл Части 4..."
+
+msgid "Simplified entity view"
+msgstr "Упрощённый просмотр объектов"
+
+msgid "Saving snapshot of {0}..."
+msgstr "Сохранение снимка {0}..."
+
+msgid "Connecting to \"{0}\"...\n"
+msgstr "Подключение к \"{0}\"...\n"
+
+msgid "Python &console"
+msgstr "Консоль Python"
+
+msgid ""
+"Check failed.\n"
+"Remote server unavailable."
+msgstr ""
+"Проверка не удалась.\n"
+"Удаленный сервер не доступен."
+
+msgid "Roles"
+msgstr "Роли"
+
+msgid "File \"{0}\" is already added to the project"
+msgstr "Файл \"{0}\" уже добавлен в проект"
+
+msgid "Loading diff..."
+msgstr "Загружаются изменения..."
+
+msgid "URI"
+msgstr "URI"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Error while searching endpoint for \"{0}\", see console"
+msgstr "Ошибка поиска  \"{0}\" на точке доступа, посмотрите консоль"
+
+msgid "S&ettings"
+msgstr "Настройки"
+
+msgid "(unavailable) {0}"
+msgstr "(недоступно) {0}"
+
+msgid "Console text"
+msgstr "Консольная команда"
+
+msgid "Choose &data file(s)..."
+msgstr "Выбрать файл(ы)..."
+
+msgid "Tests..."
+msgstr "Тесты..."
+
+msgid "Run file"
+msgstr "Исполнить файл"
+
+msgid "&Save project"
+msgstr "Сохранить проект..."
+
+msgid "Subtypes"
+msgstr "Подтипы"
+
+msgid "Search endpoints for &URI"
+msgstr "Искать URI на точках доступа"
+
+msgid "Clipboard:\n"
+msgstr "Буфер обмена:\n"
+
+msgid "OK"
+msgstr "Да"
+
+msgid "Documentation is not found in registered folder. You can open it from:"
+msgstr ""
+"Документация не найдена в зарегистрированной папке. Пожалуйста откройте её с:"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "URI:"
+msgstr "URI:"
+
+msgid "%s in "
+msgstr "%s в"
+
+msgid "{0}"
+msgstr "{0}"
+
+msgid "SPARQL query text"
+msgstr "Текст SPARQL запроса"
+
+msgid "Duplicate role\n"
+msgstr "Дублируется роль\n"
+
+msgid "Font size"
+msgstr "Размер шрифта"
+
+msgid "Project data will be discarded. Continue?"
+msgstr "Данные о проекте будут потеряны. Продолжить?"
+
+msgid ""
+"You have unsaved data:\n"
+"{0}\n"
+"Close project anyway?"
+msgstr ""
+"Есть несохранённые данные:\n"
+"{0}\n"
+"Все равно закрыть проект?"
+
+msgid "grouped by "
+msgstr "группировка по"
+
+msgid "Restricted by value"
+msgstr "Ограничение по значению"
+
+msgid "Search type"
+msgstr "Тип поиска"
+
+msgid "Test {0} passed.\n"
+msgstr "Тест {0} пройден.\n"
+
+msgid "Part 2 namespace"
+msgstr "Пространство имен для типов Части 2"
+
+msgid "PCA RDL (RDL.owl):"
+msgstr "Библиотека справочных данных PCA (RDL.owl)"
+
+msgid "Original project file was loaded."
+msgstr "Был загружен исходный файл проекта."
+
+msgid "PCA RDL file..."
+msgstr "Файл БСД PCA..."
+
+msgid "No to all"
+msgstr "Нет для всех"
+
+msgid "PCA RDL URI"
+msgstr "URI БСД PCA"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "No endpoints in the current project."
+msgstr "В проекте нет точек доступа."
+
+msgid "Searching in {0}..."
+msgstr "Поиск в {0}..."
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Python search paths:"
+msgstr "Пути поиска для Python"
+
+msgid "Diff %s applied to %s"
+msgstr "Изменения из %s применены к %s"
+
+msgid "Wrong login or password.\n"
+msgstr "Неверное имя или пароль.\n"
+
+msgid "Import source"
+msgstr "Источник импорта"
+
+msgid "&Part 2"
+msgstr "Часть 2"
+
+msgid "with local copy of p7tpl"
+msgstr "с локальной копией p7tpl"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "project"
+msgstr "проект"
+
+msgid "Added"
+msgstr "Добавлено"
+
+msgid "Run"
+msgstr "Выполнить"
+
+msgid "Open &property URI in web browser"
+msgstr "Открыть URI свойства в браузере"
+
+msgid "Deleted"
+msgstr "Удалено"
+
+msgid "p7tm"
+msgstr "p7tm"
+
+msgid "Project loading failed."
+msgstr "Загрузка проекта невозможна."
+
+msgid "Some values are invalid, discard data?"
+msgstr "Некоторые значения недопустимы, отвергнуть изменения?"
+
+msgid "Skip all"
+msgstr "Пропустить все"
+
+msgid "Recent projects:"
+msgstr "Недавние проекты:"
+
+msgid "&Documentation"
+msgstr "Документация"
+
+msgid "Python console"
+msgstr "Консоль Python"
+
+msgid "(saving) {0}"
+msgstr "(сохранение) {0}"
+
+msgid "Namespaces"
+msgstr "Пространства имен"
+
+msgid "Copy entity"
+msgstr "Копировать элемент"
+
+msgid "&Start page"
+msgstr "Стартовая страница"
+
+msgid "Project autosave found. Restore project from autosave?"
+msgstr ""
+"Обнаружен файл автоматического сохранения проекта. Восстановить проект?"
+
+msgid "<Edit...>"
+msgstr "<Редактировать...>"
+
+msgid "&Search"
+msgstr "Поиск"
+
+msgid "Add property"
+msgstr "Добавить свойство"
+
+msgid ".15926 project file (*.15926)"
+msgstr "Файл проекта .15926 (*.15926)"
+
+msgid "New project"
+msgstr "Новый проект..."
+
+msgid "(unloaded) {0}"
+msgstr "(незагружен) {0}"
+
+msgid "SPARQL endpoint:"
+msgstr "Точка доступа SPARQL:"
+
+msgid "Disjoint with"
+msgstr "Не пересекается с"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Reload patterns"
+msgstr "Обновить структуры"
+
+msgid "Changed"
+msgstr "Изменено"
+
+msgid "Connection failed, error {0}\n"
+msgstr "Сбой подключения, ошибка {0}\n"
+
+msgid "Sa&ve snapshot..."
+msgstr "Сохранить снимок..."
+
+msgid "SPARQL query"
+msgstr "SPARQL запрос"
+
+msgid "Apply diff..."
+msgstr "Применить изменения..."
+
+msgid "Part 2 types"
+msgstr "Типы Части 2"
+
+msgid "iRING Sandbox"
+msgstr "\"Полигон\" iRING"
+
+msgid "Save filtered diff as..."
+msgstr "Сохранить отфильтрованные изменения как..."
+
+msgid "&Add template"
+msgstr "Добавить  шаблон"
+
+msgid "Add all"
+msgstr "Добавить все"
+
+msgid "General"
+msgstr "Общие"
+
+msgid ""
+"Warning!\n"
+"Be sure that you are preparing tests in stable version!"
+msgstr ""
+"Внимание!\n"
+"Будьте уверены, что Вы подготавливаете тесты в стабильной версии!"
+
+msgid "p7tpl (Part 7 OWL):"
+msgstr "p7tpl (Часть 7 в OWL):"
+
+msgid "Property"
+msgstr "Свойство"
+
+msgid "(import failed) {0}"
+msgstr "(сбой импорта) {0}"
+
+msgid "Namespace for new entities"
+msgstr "Пространство имен для новых объектов"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "&XML Schema"
+msgstr "Схема XML "
+
+msgid "Probable a wrong role for an entity type\n"
+msgstr "Возможно недопустимая роль для объекта данного типа \n"
+
+msgid "Results:\n"
+msgstr "Результаты:\n"
+
+msgid "Search for suspicious entities"
+msgstr "Поиск подозрительных объектов"
+
+msgid "Index"
+msgstr "Индекс"
+
+msgid "Unselect all"
+msgstr "Отменить всё выделение"
+
+msgid "IIP Sandbox (templates)"
+msgstr "\"Полигон\" IIP (шаблоны)"
+
+msgid "Results output:"
+msgstr "Вывод результатов:"
+
+msgid "Replace"
+msgstr "Заменить"
+
+msgid "Found:"
+msgstr "Найдено:"
+
+msgid "Test {0} failed!\n"
+msgstr "Тест {0} не пройден!\n"
+
+msgid "{0} entity(s) copied\n"
+msgstr "Скопировано {0} элемент(ов) \n"
+
+msgid "Apply inverse diff..."
+msgstr "Реверсивно применить изменения..."
+
+msgid "Found \"{0}\":"
+msgstr "Найдено \"{0}\":"
+
+msgid "&File"
+msgstr "Файл"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "All &entities from data source"
+msgstr "Все объекты из источника данных"
+
+msgid "Password (optional):"
+msgstr "Пароль (необязательно):"
+
+msgid "Add role"
+msgstr "Добавить роль"
+
+msgid "Has role in"
+msgstr "Допустим в роли"
+
+msgid "Prepare"
+msgstr "Подготовить"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Project file is not accessible."
+msgstr "Нет доступа к файлу проекта."
+
+msgid "Property:"
+msgstr "Свойство:"
+
+msgid "Action cannot be completed due to template specialization errors."
+msgstr "Операция не может быть завершена из-за ошибок специализации шаблонов"
+
+msgid "&Check for a new version"
+msgstr "Проверить наличие новой версии"
+
+msgid "URI \"%s\" not found."
+msgstr "URI \"%s\" не найден."
+
+msgid "Select files..."
+msgstr "Выбрать файлы..."
+
+msgid "&New project..."
+msgstr "Новый проект..."
+
+msgid "<Reset to defaults...>"
+msgstr "<Восстановить значения по умолчанию...>"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Login (optional):"
+msgstr "Имя (необязательно):"
+
+msgid "Prepare selected tests"
+msgstr "Подготовить выбранные тесты"
+
+msgid ""
+"Selected file is probable inaccessible, use another file?\n"
+"If \"No\" project data will be discarded."
+msgstr ""
+"Выбранный файл возможно недоступен, использовать другой файл?\n"
+"Если \"Нет\" данные о проекте будут потеряны."
+
+msgid "&Add file(s)..."
+msgstr "Добавить файл(ы)..."
+
+msgid "Data model ISO 15926-2"
+msgstr "Модель данных ISO 15926-2"
+
+msgid "Tests:"
+msgstr "Тесты:"
+
+msgid "(merging) {0}"
+msgstr "(слияние) {0}"
+
+msgid "Empty"
+msgstr "Пусто"
+
+msgid "Runing tests...\n"
+msgstr "Выполнение тестов...\n"
+
+msgid "Re&load item"
+msgstr "Обновить элемент"
+
+msgid ""
+"Project file\n"
+"{0}\n"
+"not found."
+msgstr ""
+"Файл проекта\n"
+"{0}\n"
+"не найден."
+
+msgid "Can be classified by"
+msgstr "Может быть классифицирован"
+
+msgid "Can classify"
+msgstr "Может классифицировать"
+
+msgid "Not found.\n"
+msgstr "Не найдено.\n"
+
+msgid "browse"
+msgstr "Обзор"
+
+msgid "All specializatoins of this template will be deleted. Continue?"
+msgstr "Все специализации данного шаблона будут удалены. Продолжить?"
+
+msgid "New data source"
+msgstr "Новый источник данных"
+
+msgid "Save as..."
+msgstr "Сохранить как"
+
+msgid "&Insert new item"
+msgstr "Добавить новый элемент"
+
+msgid ""
+"File(s)\n"
+"%s\n"
+"not found.\n"
+"Do you want to locate them manually?"
+msgstr ""
+"Файл(ы)\n"
+"%s\n"
+"не найдены.\n"
+"Выбрать вручую?"
+
+msgid "(importing) {0}"
+msgstr "(импорт) {0}"
+
+msgid ""
+"Following roles are missing:\n"
+"%s\n"
+msgstr ""
+"Отсутствующие роли:\n"
+"%s\n"
+
+msgid "with local copy of PCA RDL"
+msgstr "с локальной копией БСД PCA"
+
+msgid "Part 8 URI"
+msgstr "URI Части 8"
+
+msgid "Save snapshot..."
+msgstr "Сохранить снимок..."
+
+msgid "Later command(s)"
+msgstr "Следующая команда"
+
+msgid "Changes will be applied after restart."
+msgstr "Изменения вступят в силу после перезапуска."
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "P&atterns"
+msgstr "Структуры"
+
+msgid "&About"
+msgstr "О программе"
+
+msgid "Saving diff..."
+msgstr "Сохраняются изменения..."
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Project autosave loading error."
+msgstr "Ошибка загрузки файла автоматического сохранения проекта."
+
+msgid "Restriction"
+msgstr "Ограничение"
+
+msgid "RDF file (*.rdf);;OWL file (*.owl);;Compressed GZIP file (*.gz)"
+msgstr "Файл RDF (*.rdf);;Файл OWL (*.owl);;Архив GZIP (*.gz)"
+
+msgid ""
+"File \"{0}\" is already added to the project as part of another data source"
+msgstr "Файл \"{0}\" уже добавлен в проект как часть другого источника данных"
+
+msgid "Snapshot of {0}"
+msgstr "Снимок {0}"
+
+msgid "Source name"
+msgstr "Имя источника"
+
+msgid "Parent template:"
+msgstr "Родительский шаблон:"
+
+msgid "&New data file..."
+msgstr "Создать файл..."
+
+msgid "&Help"
+msgstr "Помощь"
+
+msgid "Inherited from project"
+msgstr "Унаследовано из проекта"
+
+msgid "Search in URIs"
+msgstr "Поиск в URI"
+
+msgid "Earlier command(s)"
+msgstr "Предыдущая команда"
+
+msgid "Recent sources:"
+msgstr "Недавние источники:"
+
+msgid "(saving {1}%) {0}"
+msgstr "(сохранение {1}%) {0}"
+
+msgid "Diff %s inversely applied to %s"
+msgstr " Изменения из %s применены к %s реверсивно"
+
+msgid "Saving {0}..."
+msgstr "Сохранение {0}..."
+
+msgid "Copy t&ext"
+msgstr "Копировать текст"
+
+msgid "Add as property"
+msgstr "Добавить как свойство"
+
+msgid "{0} of {1} tests passed\n"
+msgstr "{0} из {1} тестов пройдено\n"
+
+msgid "&Toolbar"
+msgstr "Панель инструментов"
+
+msgid "Custom"
+msgstr "Настроены поьзователем"
+
+msgid ""
+"Destination data source already contains an entity \"{0}\".\n"
+"Owerwrite all existing data for it with a new data?"
+msgstr ""
+"Целевой источник данных уже содержит элемент \"{0}\".\n"
+"Заменить всю информацию о нём новыми данными?"
+
+msgid ""
+"Action cannot be completed as parent template is declared in another data "
+"source."
+msgstr ""
+"Операция не может быть завершена: родительский шаблон определён в другом "
+"источнике данных."
+
+msgid "Save project &as..."
+msgstr "Сохранить проект как..."
+
+msgid "Save {0} &as..."
+msgstr "Сохранить {0} как..."
+
+msgid "Save diff"
+msgstr "Сохранить изменения"
+
+msgid "All patterns"
+msgstr "Все структуры"
+
+msgid "Start page"
+msgstr "Стартовая страница"
+
+msgid "(internal) {0}"
+msgstr "(внутреннийl) {0}"
+
+msgid "Add SPAR&QL endpoint..."
+msgstr "Добавить точку доступа SPARQL..."
+
+msgid ""
+"Subject:\n"
+"%s\n"
+"already has a property:\n"
+"%s\n"
+"Replace an old value:\n"
+"%s\n"
+"with a new value:\n"
+"%s\n"
+"or add an additional value?"
+msgstr ""
+"Элемента:\n"
+"%s\n"
+"уже обладает свойством:\n"
+"%s\n"
+"Заменить старое значение:\n"
+"%s\n"
+"новым значением:\n"
+"%s\n"
+"или добавить дополнительное значение?"
+
+msgid "Patterns are reloaded"
+msgstr "Структры обновлены"
+
+msgid "Open URI in web &browser"
+msgstr "Открыть URI в браузере"
+
+msgid "Result {0}"
+msgstr "Результат {0}"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Save diff as..."
+msgstr "Сохранить изменения как..."
+
+msgid "Reload &modules"
+msgstr "Перезагрузить модули"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid ""
+"You have unsaved data:\n"
+"{0}\n"
+"Exit program anyway?"
+msgstr ""
+"У вас есть несохранённые данные:\n"
+"{0}\n"
+"Всё равно закрыть программу?"
+
+msgid "Copy property"
+msgstr "Копировать свойство"
+
+msgid "Copy of \"%s\""
+msgstr "Копия \"%s\""
+
+msgid "Paths"
+msgstr "Пути"
+
+msgid "&Relationships nodes"
+msgstr "Папки отношений"
+
+msgid "Recent sources..."
+msgstr "Недавние источники..."
+
+msgid "&Delete item"
+msgstr "Удалить элемент"
+
+msgid "Create template"
+msgstr "Создать шаблон"
+
+msgid "interrupted"
+msgstr "прервано"
+
+msgid "+ {0}"
+msgstr "+ {0}"
+
+msgid "Importer type"
+msgstr "Тип импортера"
+
+msgid ""
+"You have unsaved data:\n"
+"{0}\n"
+"Remove anyway?"
+msgstr ""
+"У вас есть несохранённые данные:\n"
+"{0}\n"
+"Всё равно удалить источник?"
+
+msgid ""
+"You can download ISO 15926-4 in RDF from http://rds.posccaesar.org/2009/08/"
+"OWL/ISO-15926-4_2007"
+msgstr ""
+"Вы можете загрузить ISO 15926-4 в RDF формате с http://rds.posccaesar."
+"org/2009/08/OWL/ISO-15926-4_2007"
+
+msgid "Templates with \"{0}\" in names:"
+msgstr "Шаблоны с \"{0}\" в именах:"
+
+msgid "&Open project..."
+msgstr "Открыть проект..."
+
+msgid "{0} triple(s) copied\n"
+msgstr "{0} триплет(ов) скопировано\n"
+
+msgid "Compare to..."
+msgstr "Сравнить с..."
+
+msgid "Value:"
+msgstr "Значение:"
+
+msgid "Put new UUID onto the clipboard"
+msgstr "Поместить новый UUID в буфер обмена"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Search PCA endpoint for &WIP equivalent"
+msgstr "Искать WIP URI на точке доступа PCA"
+
+msgid "Preparing {0}...\n"
+msgstr "Подготовка {0}...\n"
+
+msgid "PCA RDL"
+msgstr "БСД PCA"
+
+msgid "Not a valid role for this entity type\n"
+msgstr "Недопустимая роль для объекта данного типа\n"
+
+msgid "A wrong entity type or class for a role, expected %s\n"
+msgstr "Недопустимый тип или класс объекта в этой роли, ожидается  %s\n"
+
+msgid "You're using the latest version."
+msgstr "Вы используете самую свежую версию."
+
+msgid "Pro&ject..."
+msgstr "Проект..."
+
+msgid "% {0}"
+msgstr "% {0}"
+
+msgid "Property URI"
+msgstr "URI  свойства "
+
+msgid "more..."
+msgstr "дальше..."
+
+msgid "Loading properties from {0}..."
+msgstr "Загрузка свойств из {0}..."
+
+msgid "Pr&operties nodes"
+msgstr "Папки свойств"
+
+msgid "&Undo"
+msgstr "Отменить"
+
+msgid "Generate human-readable URIs for new templates"
+msgstr "Создавать человекочитаемые URI для новых шаблонов"
+
+msgid "Comment:"
+msgstr "Комментарий:"
+
+msgid ""
+"You can download PCA RDL in RDF from http://rds.posccaesar.org/downloads/PCA-"
+"RDL.owl.zip"
+msgstr ""
+"Вы можете загрузить PCA RDL в RDF формате с http://rds.posccaesar.org/"
+"downloads/PCA-RDL.owl.zip"
+
+msgid "Proto and initial set templates file..."
+msgstr "Файл с прото-шаблонами и начальным набором шаблонов..."
+
+msgid "* {0}"
+msgstr "* {0}"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "Inherit from project"
+msgstr "Унаследовать из проекта"
+
+msgid "Paste as triples"
+msgstr "Вставить как триплеты"
+
+msgid "(C) TechInvestLab.ru"
+msgstr "(с) ТехИнвестЛаб.ру"
+
+msgid "Stop &task"
+msgstr "Остановить задачу"
+
+msgid "Recent pro&jects..."
+msgstr "Недавние проекты..."
+
+msgid "Common file paths:"
+msgstr "Пути к файлам:"
+
+msgid "Modules"
+msgstr "Модули"
+
+msgid "Replace all"
+msgstr "Заменить все"
+
+msgid "&All templates from data source"
+msgstr "Все шаблоны из источника данных"
+
+msgid "Open in &new panel"
+msgstr "Открыть в новой панели"
+
+msgid "Loading"
+msgstr "Загружается"
+
+msgid "E&xit"
+msgstr "Выход"
+
+msgid "Module name"
+msgstr "Имя модуля"
+
+msgid "Accept all"
+msgstr "Принять все"
+
+msgid ""
+"New UUID on the clipboard:\n"
+"%s"
+msgstr ""
+"новый UUID в буфере обмена:\n"
+"%s"
+
+msgid "Freeware"
+msgstr "Бесплатное ПО"
+
+msgid "Project"
+msgstr "Проект"
+
+msgid "Choose a file"
+msgstr "Выбрать файл"
+
+msgid "All done\n"
+msgstr "Выполнено\n"
+
+msgid "Enabled extensions:"
+msgstr "Подключенные расширения:"
+
+msgid "r/o {0}"
+msgstr "r/o {0}"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Role has a wrong value, should be %s\n"
+msgstr "Неверный объект в роли, должен быть %s\n"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Save project as..."
+msgstr "Сохранить проект как..."
+
+msgid ""
+"New version is available.\n"
+"Click OK to open the download site."
+msgstr ""
+"Доступна новая версия.\n"
+"Нажмите ОК, чтобы перейти на страницу загрузки."
+
+msgid "Patterns"
+msgstr "Структуры"
+
+msgid "Part 4 (legacy XML):"
+msgstr "Часть 4 (формат XML)"
+
+msgid "Supertypes"
+msgstr "Надтипы"
+
+msgid "Enter data source name:"
+msgstr "Введите имя источника данных:"
+
+msgid "Having \"{0}\" in names:"
+msgstr "Содержат \"{0}\" в именах:"
+
+msgid ""
+"Diff is too large, operation can not be undone.\n"
+"Continue?"
+msgstr ""
+"Изменений слишком много, операция не может быть отменена.\n"
+"Продолжить?"
+
+msgid "&Data types"
+msgstr "Типы данных"
+
+msgid "&Save"
+msgstr "Сохранить"
+
+msgid "&Paste"
+msgstr "Вставить"
+
+msgid "Look in samples foldef for p7tpl.owl distributed with ISO 15926-8."
+msgstr "Файл p7tpl.owl (приложение к ISO 15926-8) находится в папке samples."
+
+msgid "error"
+msgstr "ошибка"
+
+msgid "Comparing..."
+msgstr "Сравнение..."
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "TechInvestLab Sandbox"
+msgstr "\"Полигон\" ТехИнвестЛаб"
+
+msgid "Object:"
+msgstr "Объект:"
+
+msgid "XML Schema types"
+msgstr "Типы схемы XML"
+
+msgid "Search for \"{0}\":"
+msgstr "Найти \"{0}\":"
+
+msgid "Property name"
+msgstr "Имя свойства"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "RDS/WIP URI"
+msgstr "URI RDS/WIP"
+
+msgctxt "QTextControl"
+msgid "Copy &Link Location"
+msgstr "Копировать ссылку"
+
+msgctxt "QTextControl"
+msgid "Cu&t"
+msgstr "Вырезать"
+
+msgctxt "QTextControl"
+msgid "&Redo"
+msgstr "Повторить"
+
+msgctxt "QTextControl"
+msgid "&Copy"
+msgstr "Копировать"
+
+msgctxt "QTextControl"
+msgid "&Paste"
+msgstr "Вставить"
+
+msgctxt "QTextControl"
+msgid "&Undo"
+msgstr "Отменить"
+
+msgctxt "QTextControl"
+msgid "Delete"
+msgstr "Удалить"
+
+#~ msgid "Sparql query"
+#~ msgstr "SPARQL запрос"
+
+#~ msgid "Ok"
+#~ msgstr "Ок"
+
+#~ msgid "Importing"
+#~ msgstr "Импорт"
+
+#~ msgid "Extensions"
+#~ msgstr "Расширения"
+
+#~ msgid "Reference and project data"
+#~ msgstr "Справочные и проектные данные"
+
+#~ msgid "Start_page"
+#~ msgstr "Стартовая страница"
+
+#~ msgid ""
+#~ "This data source was not prepared with .15926 Editor. Editing and\n"
+#~ "saving these templates will keep them compliant to ISO 15926-8\n"
+#~ "requirements, but any additional information (classifications,\n"
+#~ "specializations, annotations, other properties) from the original data\n"
+#~ "source will be lost after execution of a save command. Please save\n"
+#~ "imported data to a new file."
+#~ msgstr ""
+#~ "Этот источник данных не был подготовлен в редакторе .15926.\n"
+#~ "Редактирование и сохранение этих шаблонов будет происходить\n"
+#~ "в соответствии с требованиями ISO 15926-8, но любая\n"
+#~ "дополнительная информация (классификации, специализации,\n"
+#~ "аннотации и другие свойства) из исходного источника данных\n"
+#~ " будет утеряна после сохранения.\n"
+#~ "Пожалуйста, сохраните импортируемые данные в новый файл."
+
+#~ msgid "Cut"
+#~ msgstr "Вырезать"
+
+#~ msgid "Exit"
+#~ msgstr "Выход"
+
+#~ msgid "Loading templates from endpoint({0})..."
+#~ msgstr "Загрузка шаблонов из точки доступа ({0})..."
+
+#~ msgid "Reference data from iRING Sandbox"
+#~ msgstr "Справочные данные из \"песочницы\" iRING"
+
+#~ msgid "Open SPARQL endpoint"
+#~ msgstr "Открыть SPARQL-точку доступа"
+
+#~ msgid "Previous command"
+#~ msgstr "Предыдущая команда"
+
+#~ msgid "See iRINGTools"
+#~ msgstr "Смотрите iRINGTools"
+
+#~ msgid "Current project is unsaved, save it now?"
+#~ msgstr "Текущий проект не был сохранен, сохранить его сейчас?"
+
+#~ msgid "Templates"
+#~ msgstr "Шаблоны"
+
+#~ msgid "Templates from files..."
+#~ msgstr "Шаблоны из файлов..."
+
+#~ msgid "Reference data from PCA endpoint"
+#~ msgstr "Справочные данные из PCA-точки доступа"
+
+#~ msgid "Reference and project data from files..."
+#~ msgstr "Справочные и проектные данные из файла..."
+
+#~ msgid "Pattern identification"
+#~ msgstr "Идентификация паттернов"
+
+#~ msgid "Reference and project data file..."
+#~ msgstr "Файл справочных и проектных данных..."

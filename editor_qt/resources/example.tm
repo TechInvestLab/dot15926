@@ -1,0 +1,5 @@
+menu_example_menu "Example menu"
+saving_doc "Saving {0}..."
+menu_open_txt "Open text file..."
+open_txt_title "Open text file..."
+txt_view "Text view"

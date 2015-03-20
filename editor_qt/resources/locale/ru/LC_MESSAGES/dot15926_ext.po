@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: dot15926\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid "Setup catalog dependencies..."
+msgstr "Настроить импорт каталога..."
+
+msgid "&Import"
+msgstr "Импорт"
+
+msgid "Select .xlsx file..."
+msgstr "Выбрать файл .xlsx..."
+
+msgid "Pattern %s not found."
+msgstr "Структура %s не найдена."
+
+msgid "Processing rows..."
+msgstr "Обработка строк..."
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Columns"
+msgstr "Столбцы"
+
+msgid "Updating cell validation..."
+msgstr "Обновление проверки ячеек..."
+
+msgid "Save to file"
+msgstr "Сохранить в файл"
+
+msgid "Creating label database..."
+msgstr "Создание списков имён..."
+
+msgid "Stop"
+msgstr "Остановить"
+
+msgid "Import catalog data from JSON file..."
+msgstr "Импортировать данные каталога из файла JSON..."
+
+msgid "Setup import"
+msgstr "Настроить импорт"
+
+msgid "Ready for import"
+msgstr "Готовность к импорту"
+
+msgid "RDL:"
+msgstr "Справочные данные:"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Setup .xlsx import..."
+msgstr "Настроить импорт из .xlsx..."
+
+msgid "Unable to save mapping data."
+msgstr "Невозможно сохранить данные отображения."
+
+msgid "Load from file"
+msgstr "Загрузить из файла"
+
+msgid "Indexing columns..."
+msgstr "Индексирование колонок..."
+
+msgid "Build patterns from Excel"
+msgstr "Импорт структур из таблиц Excel"
+
+msgid "Setup TabLan dependencies..."
+msgstr "Настроить импорт TabLan..."
+
+msgid "Unable to load mapping data."
+msgstr "Невозможно загрузить данные отображения."
+
+msgid "Select sheet"
+msgstr "Выбрать лист"
+
+msgid "Roles"
+msgstr "Роли"
+
+msgid ""
+"Warning! Column {0} will be ignored, mapped pattern part has 'self' "
+"descriptor!"
+msgstr ""
+"Внимание! Колонка {0} не будет обработана, так как эта часть отображённой "
+"структуры описана через 'self'!"
+
+msgid "Import TabLan reference data from .xlsx table..."
+msgstr "Импортировать справочные данные TabLan из файла .xlsx..."
+
+msgid "Template set:"
+msgstr "Набор шаблонов:"
+
+msgid "Save mapping..."
+msgstr "Сохранить отображение..."
+
+msgid "Import IIP templates from .xlsx table..."
+msgstr "Импортировать шаблоны IIP из файла .xlsx..."
+
+msgid "Load mapping..."
+msgstr "Загрузить отображение..."
+
+msgid "Namespace for new entities:"
+msgstr "Пространство имён для новых элементов:"
+
+msgid "Initializing MS Excel"
+msgstr "Инициализация MS Excel"
+
+msgid "Generate human readable URIs for new entities:"
+msgstr "Создавать человекочитаемые URI"
+
+msgid "OK"
+msgstr "Да"
+
+msgid "Importing..."
+msgstr "Импортируется..."
+
+msgid "MS Excel not available!"
+msgstr "MS Excel недоступен!"
+
+msgid "Import templates from .xlsx table..."
+msgstr "Импортировать шаблоны из файла .xlsx..."
+
+msgid "Process attribute inheritance"
+msgstr "Добавлять унаследованные атрибуты"
+
+msgid "Select pattern"
+msgstr "Выбрать структуру"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Importing {0}..."
+msgstr "Импортируется {0}..."
