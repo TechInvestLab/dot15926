@@ -50,15 +50,15 @@ In .15926 Editor you can:
 
 • Use or modify extensions from TechInvestLab.ru: 
 
-o pattern-based Linked Data semantic server with built-in web engine;
+- pattern-based Linked Data semantic server with built-in web engine;
 
-o spreadsheet mapping to create semantic data from Excel spreadsheets;
+- spreadsheet mapping to create semantic data from Excel spreadsheets;
 
-o conversion of reference and project data from TabLan.15926 data description tables (.xlsx) to ISO 15926 RDF; 
+- conversion of reference and project data from TabLan.15926 data description tables (.xlsx) to ISO 15926 RDF; 
 
-o import of reference data from JSON files created by engineering catalog application (third party); 
+- import of reference data from JSON files created by engineering catalog application (third party); 
 
-o creation or import of template definitions in iRING spreadsheet format.
+- creation or import of template definitions in iRING spreadsheet format.
 
 • Explore (with somewhat limited capabilities) any large RDF datasets, 
 
