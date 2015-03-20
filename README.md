@@ -66,11 +66,11 @@ In .15926 Editor you can:
 
 .15926 Editor is a tool designed with three major goals in mind: 
 
-• explore existing sources of reference data in as many formats as possible; 
+- explore existing sources of reference data in as many formats as possible; 
 
-• verify reference data; 
+- verify reference data; 
 
-• engineer and manage new reference data, including automated reference data creation through adaptors incorporating mapping from external sources.
+- engineer and manage new reference data, including automated reference data creation through adaptors incorporating mapping from external sources.
 
 The Editor is intended to become for ISO 15926 data what Protégé became for OWL data – a primary tool for data exploration.
 
