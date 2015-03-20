@@ -1,0 +1,192 @@
+The following list contains feature history of the Editor from the first demo release in  January 2012.
+
+
+What is new in .15926 Editor version 1.5beta (released on July 15, 2014):
+
+1. Visual pattern editor with search capabilities; new open JSON format for pattern libraries.
+
+2. Patterns are managed in the project as a new type of data source; pattern model extended. 
+
+3. Major mapping and adapter prototyping demo for a plant process flow diagram - sample data with walk-through guide included with the documentation in dot15926AdapterSample.pdf file.
+
+4. New Linked Data open-source extension packaged with web engine; start your own Linked Data server, delivering pattern-based representation of project and reference data (including PCA RDL) with semantic search.
+
+5. Import of patterns from IIP TIPManger database (available from http://www.iringsandbox.org/bak/tips.mdb), generic patterns reconstruction for TIPs.
+
+6. Pattern-based export to spreadsheet - easily managed reporting for RDF data.
+
+7. Pattern-based adapters supported for external databases and services; refer to https://github.com/ailev/anird for sample adapters to Google Map and other APIs.
+
+8. Turtle format fully supported, you can save .ttl files now.
+
+
+Versions 1.41, 1.42, 1.43 - bugfixes.
+
+What is new in .15926 Editor version 1.40 (released on February 23, 2014):
+
+1. Spreadsheet mapping to patterns - powerful adapter extension to describe spreadsheet data model with patterns and transform spreadsheet data to ISO 15926 compliant RDF.
+
+2. On-the-fly data model compliance verification for relational entities, typing and classification verification across the project.
+
+3. More project-oriented features, including project-wide property and module name management.
+
+4. Improved navigation for Part 2 data model - go from types to roles they are restricting; disjointness and membership restriction inheritance is inferred for the type tree.
+
+5. Part 2 data model is enhanced with missing "can classify" relations; disjoint subclasses for AbstractObject and simplified subtyping for complete OtherRelationship model are added to facilitate unambiguous verification. 
+
+6. Quick search expanded with URI search.
+
+7. New pattern-based "engineering" view on reference and project data items, pattern visibility management for improved performance.
+
+8. Pattern format enhancements, the Editor is ready for pattern library releases (coming soon).
+
+9. Turtle file format support (read only).
+
+10. Built-in UUID support for data entities created in Editor, direct access to UUID generator.
+
+11. Documentation rearranged into several volumes for ease of use.
+
+12. Complete Russian interface included
+
+
+What is new in .15926 Editor version 1.31 (released on September 19, 2013):
+
+1. Drag-n-drop project description files to change your project environment.
+
+2. Explore template roles as OWL properties with one button.
+
+3. Bugfixes. Please import or create anew any templates you've created with ver. 1.3, definitions weren't compliant to Part 8 OWL requirements.
+
+
+What is new in .15926 Editor version 1.3 (released on September 10, 2013):
+
+1. Change management for semantic data: comparison of data sources, building of a structural diff,  change review and acceptance.
+
+2. Smart copy, cut and paste - context-aware entity and property transfer between data sources and easy transfer of text data to other applications.
+
+3. Speed increase up to 5 times for loading of big data sources. Work with files compressed by GZIP without unpacking.
+
+4. Removed restrictions for work with template definitions: uniform opening of data sources, search for template definition in all data sources, arbitrary relationships and properties are supported for templates.
+
+5. Improved restriction control for specialized template definitions. 
+
+6. SPARQL queries to remote endpoints available through Editor's console and are incorporated in SearchLan for use in scripts and extensions.  
+
+7. Drag-n-drop files to the Project.
+
+8. User-control of UUID prefix.
+
+9. Software optimized for work with multiple projects and many data sources, including shortcuts to recently opened projects and sources. Project auto-save. 
+
+10. Migration to a new interface library (PySide, Python binding to Qt) resulting in a new look and feel of the program and opening possibilities for future interface development.
+
+11. Query examples, documentation and extensions adjusted for changed namespace in PCA RDL export file. Access to documentation from Editor menu.
+
+12. Dropped support of Camelot template format (use older versions of the Editor to convert or contact us for help).
+
+13. National language localization started, Russian interface included (incomplete).
+
+
+What is new in .15926 Editor version 1.2 (released on February 21, 2013):
+
+1. New implementation of patterns, including multi-role patterns and patterns with options. Pattern definitions are fully documented and open for further additions.
+
+2. Enhanced pattern search functionality.
+
+3. Projects can be saved and restored, preserving data source configuration and customized data source parameters (namespaces, properties, etc.).
+
+4. New level of compliance to ISO 15926-8 requirements for RDF/OWL template format. If you've already used the Editor to define template signatures - please open your files and save them with the same name again, the format will be converted to the newest version.
+
+5. Built-in recognition of template meta-model namespace.
+
+6. Enhanced APIs of Scanner and Builder, allowing search and editing by all object and data properties at RDF level. 
+
+7. Two new Scanner functions for search at SPARQL endpoint and search in data downloaded from endpoint (it is just the beginning).
+
+8. Template creation functions are added to Builder API for template definitions conversion from proprietary formats. Open-source extension for import of template definitions from iRING Tools table format included.
+
+9. Registration and creation of custom object properties for non-standard representation of relationships is allowed and their visualization is improved (the Editor can now be used as a general-purpose RDF/XML editing software if need arises).
+
+10.User can cancel time-consuming queries and algorythms.
+
+11. Query performance optimization.
+
+12. Bugfixes.
+
+
+What is new in .15926 Editor version 1.1 (released on November 19th 2012):
+
+1. Open extension development - unlimited functionality enhancement through Python libraries and modules dynamically loaded by the Editor (allows user to create simple importers-exporters or complex mapping adaptors, reasoners, etc.).
+
+2. Fully documented Builder API - creation of ISO 15926 data entities through console and extensions. 
+
+3. Source code of built-in extensions and extension samples released under the BSD 2-Clause license.
+
+4. Creation of multiple instances of rdf:type for classifications from RDL classes.
+
+5. Added link to TechInvestLab.ru RDL sandbox http://rdl.techinvestlab.ru:8891/sparql . TabLan methodology and sample data linked to reference data from TechInvestLab.ru sandbox.
+
+6. UUID generation corrected to achieve fuller compliance with RFC 4122 / ITU-T X.667 / ISO/IEC 9834-8  
+
+7. Mistakes corrected in TabLan.15926 methodology and mapping.
+
+8. Distributed as an archive or as an MS Windows installer.
+
+9. Update check (manual).
+
+10. Documentation enhancements and clarifications.
+
+11. Numerous interface improvements and bugfixes.
+
+
+What is new in .15926 Editor version 1.00 (released on September 30th 2012):
+
+1. Integrated project environment replaces separate presets.
+
+2. Customization of namespaces and annotation properties.
+
+3. SearchLan.15926 query language for local data sources.
+
+4. Pattern identification and search by patterns.
+
+5. URI search for remote SPARQL endpoints, including search for legacy RDS/WIP identifiers.
+
+6. Generation of URI from UUID compliant with RFC 4122 / ITU-T X.667 / ISO/IEC 9834-8
+
+7. Built-in fully functional Python REPL console.
+
+8. Import capability for JSON export from third party application.
+
+9. Completely redesigned user interface for work with multiple data sources.
+
+10. New documentation with walkthrough tutorials and methodological hints.
+
+11. Compliance report included.
+
+
+What is new in .15926 Editor version 0.87m (released on March 8th 2012):
+
+1. Support for the "TabLan.15926  Data Mapping Specification" released on March 8th 2012 (available at http://techinvestlab.ru/TabLan)
+
+2. Bugfix.
+
+
+What is new in .15926 Editor version 0.87 (released on January 24th 2012):
+
+1. Capability to add and edit template instances in preset Tablan.
+
+2. Correct visualization of Same As data attribute.
+
+3. Data source indication for data items viewed.
+
+4. Reload of entities for interrupted SPARQL request.
+
+5. Process interruption with window closure (mistake correction capability).
+
+6. Capability to access password protected SPARQL endpoints.
+
+7. URI dereferencing and web access for data model items and all data items.
+
+8. Some usability tips and tricks in documentation.
+
+
